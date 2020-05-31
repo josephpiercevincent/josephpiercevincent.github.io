@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/josephpiercevincent/josephpiercevincent.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to vectorj.engineering, documentative home of Joseph Vincent's programming/hardware engineering projects. Below you will find a list both active and inactive projects, followed by short descriptions, and links to their own pages and gitHub repositories. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Projects
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
