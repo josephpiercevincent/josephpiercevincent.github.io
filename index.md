@@ -14,6 +14,10 @@ _Video Links_
 - [Lesson 1 (Introduction)](url)
 - [Lesson 2 (Theory)](url)
 
+_Docs_
+- [DEVNOTES.TXT](url)
+
+
 
 ## Support or Contact
 
