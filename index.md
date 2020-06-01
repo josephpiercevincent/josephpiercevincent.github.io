@@ -17,4 +17,4 @@ _Video Links_
 
 ## Support or Contact
 
-Any questions or confusion can be redirected to josephvincentaps@gmail.com . I'll do my best to get back to you promptly.
+If you need to get ahold of me for any reason whatsovever, you can send an email my way at Josephvincentaps@gmail.com . I'll do my best to get back to you promptly.
