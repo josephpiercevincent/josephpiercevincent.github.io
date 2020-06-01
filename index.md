@@ -11,8 +11,8 @@ Welcome to vectorj.engineering, documentative home of Joseph Vincent's programmi
 **Author(s)** : Joseph Vincent
 
 _Video Links_
-- [Lesson 1](url)
-- [Lesson 2](url)
+- [Lesson 1 (Introduction)](url)
+- [Lesson 2 (Theory)](url)
 
 
 ## Support or Contact
