@@ -2,7 +2,7 @@
 
 Welcome to vectorj.engineering, documentative home of Joseph Vincent's projects. Below you will find a list both active and inactive projects, followed by short descriptions, and links to their own pages and gitHub repositories. 
 
-## Projects
+## _PROJECTS
 
 ### ARDUINO_74HC595_ADDER
 
