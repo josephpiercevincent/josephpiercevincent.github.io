@@ -4,7 +4,7 @@ Welcome to vectorj.engineering, documentative home of Joseph Vincent's programmi
 
 ### Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ARDUINO_74HC595_ADDER -
 
 ```markdown
 Syntax highlighted code block
