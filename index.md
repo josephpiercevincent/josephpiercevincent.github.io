@@ -1,10 +1,8 @@
 ## Welcome
 
-Welcome to vectorj.engineering, documentative home of Joseph Vincent's programming/hardware engineering projects. Below you will find a list both active and inactive projects, followed by short descriptions, and links to their own pages and gitHub repositories. 
+Welcome to vectorj.engineering, documentative home of Joseph Vincent's programming/hardware engineering/educational projects. Below you will find a list both active and inactive projects, followed by short descriptions, and links to their own pages and gitHub repositories. 
 
 ### Projects
-
-ARDUINO_74HC595_ADDER -
 
 ```markdown
   
