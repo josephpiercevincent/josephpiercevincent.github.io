@@ -4,26 +4,25 @@ Welcome to vectorj.engineering, documentative home of Joseph Vincent's programmi
 
 ## Projects
 
-## Project : ARDUINO_74HC595_ADDER
-### Description : Resources for an in progress short video series on using the arduino IDE, an ATMega32U, 16 LEDS, two 4 bit DIP Switches, 2 74HC595 shift registers, and a pushbutton switch to create a 4 bit adder.
-#### Author(s) : Joseph Vincent
+ **Project**: ARDUINO_74HC595_ADDER
+**Description** : Resources for an in progress short video series on using the arduino IDE, an ATMega32U, 16 LEDS, two 4 bit DIP Switches, 2 74HC595 shift registers, and a pushbutton switch to create a 4 bit adder.
+**Author(s)** : Joseph Vincent
 
-**Repository Link**
+_Repository Link_
 
-**Video Links**
+_Video Links_
 - [Lesson 1](url)
 - [Lesson 2](url)
 
 
 ```markdown
-  
-# Project : ARDUINO_74HC595_ADDER
-## Description : Resources for an in progress short video series on using the arduino IDE, an ATMega32U, 16 LEDS, two 4 bit DIP Switches, 2 74HC595 shift registers, and a pushbutton switch to create a 4 bit adder.
-### Author(s) : Joseph Vincent
+**Project** : ARDUINO_74HC595_ADDER
+**Description** : Resources for an in progress short video series on using the arduino IDE, an ATMega32U, 16 LEDS, two 4 bit DIP Switches, 2 74HC595 shift registers, and a pushbutton switch to create a 4 bit adder.
+**Author(s)** : Joseph Vincent
 
-**Repository Link**
+_Repository Link-_
 
-**Video Links**
+_Video Links-_ 
 - [Lesson 1](url)
 - [Lesson 2](url)
 
