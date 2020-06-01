@@ -15,6 +15,6 @@ _Video Links_
 - [Lesson 2](url)
 
 
-### Support or Contact
+## Support or Contact
 
 Any questions or confusion can be redirected to josephvincentaps@gmail.com . I'll do my best to get back to you promptly.
