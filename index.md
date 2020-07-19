@@ -16,4 +16,4 @@ Welcome to vectorj.engineering, documentative home of Joseph Vincent's projects.
 
 ## Support or Contact
 
-If you need to get ahold of me for any reason whatsovever, you can send an email my way at Josephvincentaps@gmail.com . I'll do my best to get back to you promptly.
+If you need to get ahold of me for any reason whatsovever, you can send an email my way at Josephpiercevincent@gmail.com . I'll do my best to get back to you promptly.
